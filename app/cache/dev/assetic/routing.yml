@@ -2,4 +2,4 @@ _assetic:
     resource: .
     type: assetic
 _app:
-    resource: /Users/dennindalke/Development/Technologies/Symfony/SymfonyPlayground/symfony/app/config/routing_dev.yml
+    resource: /Users/dennindalke/Development/Technologies/Symfony/SymfonyPlayground/app/config/routing_dev.yml
